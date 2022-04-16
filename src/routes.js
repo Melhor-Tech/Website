@@ -71,9 +71,8 @@ import Typography from "layouts/sections/elements/typography"; */
 const routes = [
   {
     name: "About Us",
-    route: "/pages/landing-pages/about-us",
+    href: "/pages/landing-pages/about-us",
     component: <AboutUs />,
-    color: "black",
   },
   {
     name: "Contact Us",
