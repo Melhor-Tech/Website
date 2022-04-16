@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/material-kit-react/static/js/main.f60609f1.chunk.js",
+    "main.js.map": "/material-kit-react/static/js/main.f60609f1.chunk.js.map",
+    "runtime-main.js": "/material-kit-react/static/js/runtime-main.e460e517.js",
+    "runtime-main.js.map": "/material-kit-react/static/js/runtime-main.e460e517.js.map",
+    "static/js/2.bb22d420.chunk.js": "/material-kit-react/static/js/2.bb22d420.chunk.js",
+    "static/js/2.bb22d420.chunk.js.map": "/material-kit-react/static/js/2.bb22d420.chunk.js.map",
+    "index.html": "/material-kit-react/index.html",
+    "static/js/2.bb22d420.chunk.js.LICENSE.txt": "/material-kit-react/static/js/2.bb22d420.chunk.js.LICENSE.txt",
+    "static/media/amal2.4915c2a3.jpeg": "/material-kit-react/static/media/amal2.4915c2a3.jpeg",
+    "static/media/bg-about-us.cf9a123e.jpg": "/material-kit-react/static/media/bg-about-us.cf9a123e.jpg",
+    "static/media/cover.4bfe7757.jpg": "/material-kit-react/static/media/cover.4bfe7757.jpg",
+    "static/media/ivana-square.f7bc23b2.jpg": "/material-kit-react/static/media/ivana-square.f7bc23b2.jpg",
+    "static/media/jayesh.2ba387f9.jpg": "/material-kit-react/static/media/jayesh.2ba387f9.jpg",
+    "static/media/logo.af735669.jpeg": "/material-kit-react/static/media/logo.af735669.jpeg",
+    "static/media/navaneeth.0e12dda3.jpeg": "/material-kit-react/static/media/navaneeth.0e12dda3.jpeg",
+    "static/media/sqlogo4.a94ccfff.jpg": "/material-kit-react/static/media/sqlogo4.a94ccfff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e460e517.js",
+    "static/js/2.bb22d420.chunk.js",
+    "static/js/main.f60609f1.chunk.js"
+  ]
+}
