@@ -44,13 +44,18 @@ function Information() {
           justifyContent="center"
           sx={{ mx: "auto", textAlign: "center" }}
         >
-          <MKTypography variant="h2">Trusted by over</MKTypography>
           <MKTypography variant="h2" color="info" textGradient mb={2}>
-            1,679,477+ web developers
+            Mission
           </MKTypography>
           <MKTypography variant="body1" color="text" mb={2}>
-            Many Fortune 500 companies, startups, universities and governmental institutions love
-            Creative Tim&apos;s products.
+            Our Mission is to Revolutionize the electric vehicle industry, by bringing on low-cost
+            and efficient components as well as service.
+          </MKTypography>
+          <MKTypography variant="h2" color="info" textGradient mb={2}>
+            Vision
+          </MKTypography>
+          <MKTypography variant="body1" color="text" mb={2}>
+            Our Vision is to make sure that we should be able to satisfy every customer needs.
           </MKTypography>
         </Grid>
       </Container>

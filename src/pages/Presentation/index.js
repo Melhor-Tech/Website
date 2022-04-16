@@ -32,11 +32,11 @@ import AboutUs from "layouts/pages/landing-pages/about-us";
 import ContactUs from "layouts/pages/landing-pages/contact-us";
 
 // Presentation page sections
-import Counters from "pages/Presentation/sections/Counters";
+// import Counters from "pages/Presentation/sections/Counters";
 // import Information from "pages/Presentation/sections/Information";
 
 import Testimonials from "pages/Presentation/sections/Testimonials";
-import Download from "pages/Presentation/sections/Download";
+// import Download from "pages/Presentation/sections/Download";
 
 // Presentation page components
 import BuiltByDevelopers from "pages/Presentation/components/BuiltByDevelopers";
@@ -115,7 +115,6 @@ function Presentation() {
           boxShadow: ({ boxShadows: { xxl } }) => xxl,
         }}
       >
-        <Counters />
         <Container sx={{ mt: 6 }}>
           <BuiltByDevelopers />
         </Container>
@@ -167,7 +166,6 @@ function Presentation() {
           </Grid>
         </Container>
         <Testimonials />
-        <Download />
         <MKBox pt={18} pb={6}>
           <Container>
             <Grid container spacing={3}>

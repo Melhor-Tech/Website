@@ -9,6 +9,8 @@ import MKTypography from "components/MKTypography";
 
 // Images
 import logoCT from "assets/images/logo.jpeg";
+// import AboutUs from "layouts/pages/landing-pages/about-us";
+// import ContactUs from "layouts/pages/landing-pages/contact-us";
 
 const date = new Date().getFullYear();
 
@@ -35,18 +37,11 @@ export default {
   menus: [
     {
       name: "company",
-      items: [{ name: "about us", href: "https://www.creative-tim.com/presentation" }],
+      items: [{ name: "about us", href: "layouts/pages/landing-pages/about-us" }],
     },
     {
       name: "help & support",
-      items: [{ name: "contact us", href: "https://www.creative-tim.com/contact-us" }],
-    },
-    {
-      name: "legal",
-      items: [
-        { name: "terms & conditions", href: "https://www.creative-tim.com/terms" },
-        { name: "privacy policy", href: "https://www.creative-tim.com/privacy" },
-      ],
+      items: [{ name: "contact us", href: "layouts/pages/landing-pages/contact-us" }],
     },
   ],
   copyright: (
