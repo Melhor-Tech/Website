@@ -29,7 +29,7 @@ export default {
     },
     {
       icon: <InstagramIcon />,
-      link: "",
+      link: "https://instagram.com/melhor_tech?igshid=YmMyMTA2M2Y=",
     },
   ],
   menus: [
