@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/Website/static/js/main.b4826950.chunk.js",
+    "main.js.map": "/Website/static/js/main.b4826950.chunk.js.map",
+    "runtime-main.js": "/Website/static/js/runtime-main.7e388097.js",
+    "runtime-main.js.map": "/Website/static/js/runtime-main.7e388097.js.map",
+    "static/js/2.5034ce23.chunk.js": "/Website/static/js/2.5034ce23.chunk.js",
+    "static/js/2.5034ce23.chunk.js.map": "/Website/static/js/2.5034ce23.chunk.js.map",
+    "index.html": "/Website/index.html",
+    "static/js/2.5034ce23.chunk.js.LICENSE.txt": "/Website/static/js/2.5034ce23.chunk.js.LICENSE.txt",
+    "static/media/amal2.4915c2a3.jpeg": "/Website/static/media/amal2.4915c2a3.jpeg",
+    "static/media/bharat.fa31b09a.jpeg": "/Website/static/media/bharat.fa31b09a.jpeg",
+    "static/media/cover-pic.bea7cba9.jpg": "/Website/static/media/cover-pic.bea7cba9.jpg",
+    "static/media/jayesh.2ba387f9.jpg": "/Website/static/media/jayesh.2ba387f9.jpg",
+    "static/media/jithu.aa27845a.jpeg": "/Website/static/media/jithu.aa27845a.jpeg",
+    "static/media/logo.af735669.jpeg": "/Website/static/media/logo.af735669.jpeg",
+    "static/media/navaneeth.0e12dda3.jpeg": "/Website/static/media/navaneeth.0e12dda3.jpeg",
+    "static/media/sqlogo4.a94ccfff.jpg": "/Website/static/media/sqlogo4.a94ccfff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e388097.js",
+    "static/js/2.5034ce23.chunk.js",
+    "static/js/main.b4826950.chunk.js"
+  ]
+}
