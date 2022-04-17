@@ -46,7 +46,7 @@ import routes from "routes";
 import footerRoutes from "footer.routes";
 
 // Images
-import bgImage from "assets/images/cover.jpg";
+import bgImage from "assets/images/cover-pic.jpg";
 
 // import SignIn from "layouts/pages/authentication/sign-in";
 
@@ -69,9 +69,13 @@ function Presentation() {
         minHeight="75vh"
         width="100%"
         sx={{
-          backgroundImage: `url(${bgImage})`,
+          backgroundImage: ({ functions: { linearGradient, rgba }, palette: { gradients } }) =>
+            `${linearGradient(
+              rgba(gradients.dark.main, 0.6),
+              rgba(gradients.dark.state, 0.6)
+            )}, url(${bgImage})`,
           backgroundSize: "cover",
-          backgroundPosition: "top",
+          backgroundPosition: "center",
           display: "grid",
           placeItems: "center",
         }}
@@ -98,8 +102,8 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              Started from TKM and goes as high as to be mentioned in Forbes Magazine Here we go
-              Engineers! Never ever ever give up This is our world
+              An Emerging Startup from TKM College of Engineering based on Electric Vehicles and its
+              associated services.
             </MKTypography>
           </Grid>
         </Container>
