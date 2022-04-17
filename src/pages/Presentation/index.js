@@ -57,8 +57,6 @@ function Presentation() {
         routes={routes}
         action={{
           type: "external",
-          // route: "/pages/authentication/sign-in",
-          // component: <SignIn />,
           route: "https://www.yepdesk.com/electric-vehicle-internship1",
           label: "Register for Internship",
           color: "info",
