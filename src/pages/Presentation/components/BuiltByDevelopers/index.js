@@ -53,8 +53,8 @@ function BuiltByDevelopers() {
           </MKTypography>
           <MKTypography variant="body1" color="white" opacity={0.8} mb={2}>
             5+1 Days of Electric Vehicle Internship. This course is entitled to 20 KTU Activity
-            Points. Brought to you in collaboration with IEI (Institution of Engineers (India), TKMCE
-            Chapter).
+            Points. Brought to you in collaboration with IEI (Institution of Engineers (India),
+            TKMCE Chapter).
           </MKTypography>
           <MKButton
             variant="gradient"
